@@ -21,7 +21,7 @@ NumPy
 Matplotlib
 
 ***Installation***
-Clone the repository: git clone -----------------------------------
+Clone the repository: git clone https://github.com/Gdrat/Genetic-Algorithm.git
 Navigate to the project directory: cd genetic-algorithm-polynomial-curve-fitting
 Set up a virtual environment (optional but recommended): python -m venv venv
 source venv/bin/activate   (On Windows use ".\venv\Scripts\activate")
