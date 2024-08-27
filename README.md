@@ -1,2 +1,2 @@
 # Genetic-Algorithm
-This project demonstrates how GAs can be used to find the best-fit polynomial for a given dataset.
+Overview: Genetic algorithms (GAs) are inspired by the process of natural selection. This project demonstrates how GAs can be used to find the best-fit polynomial for a given dataset. The algorithm evolves a population of candidate polynomials by selecting, crossing over, and mutating them over several generations to minimize the error between the predicted and actual data points.
