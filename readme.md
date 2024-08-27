@@ -49,3 +49,5 @@ The best polynomial found by the genetic algorithm will be printed to the consol
 
 ***Contributing***
 Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
+
+(license was not selected)
